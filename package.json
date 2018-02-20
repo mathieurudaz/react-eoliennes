@@ -1,0 +1,23 @@
+{
+  "name": "react_eoliennes",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ta-interaktiv/react-polymorphic-masthead": "^1.3.2",
+    "@ta-interaktiv/react-polymorphic-share-buttons": "^1.2.5",
+    "@ta-interaktiv/react-polymorphic-tracking": "^1.0.1",
+    "@ta-interaktiv/semantic-ui": "^1.3.0",
+    "d3": "^4.13.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1",
+    "topojson-client": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "https://www.24heures.ch/extern/interactive_wch/2018/react_eoliennes"
+}

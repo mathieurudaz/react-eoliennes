@@ -1,0 +1,11 @@
+svg{ 
+  background-color: #f5f6f7;
+}
+
+path.municipality{
+  fill: #a1a2a4;
+}
+
+path.municipality.active{
+  fill: red;
+}
